@@ -1,0 +1,22 @@
+.col-half-offset{
+    margin-left:3%
+}
+
+.calcRow {
+	background-color: lightgrey;
+	padding-top: 4px;
+	padding-right: 2px}
+.calcBtn {
+	width: 45px
+}
+.calcCol {
+	width: 30px;
+	
+}
+input {
+	font-size: 18px;
+	width: 100%;
+	border: 2px 0px 2px 0px  solid grey;
+}
+
+
